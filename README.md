@@ -4,3 +4,4 @@
 - 💞️ I’m looking to collaborate on webdev, though I'm still a beginner.
 - 📫 How to reach me: email me at- sriyashree7@gmail.com
 - 🔗 Personal Website: https://sriyashree.github.io/Sriyashree/ (hosted on GitHub pages)
+-    My GitHub profile: https://github.com/Sriyashree 
